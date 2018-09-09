@@ -1,0 +1,18 @@
+newmtl file:ARCHMODELS_47_054_5
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10000.00
+map_Ka 2.bmp
+newmtl file1:wire_127127127
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+map_Ka 1.bmp
