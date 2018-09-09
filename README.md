@@ -1,6 +1,6 @@
-##基于OpenGL的3D台球游戏--BilliardGL
+# 基于OpenGL的3D台球游戏--BilliardGL
 
-##1 Basic Points
+# 1 Basic Points
 
 ### 1 3D建模
 
@@ -154,6 +154,7 @@
       $$
       V' = V_x' + V_y' = V_x - V_y;
       $$
+
 
 
 
